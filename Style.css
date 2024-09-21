@@ -63,7 +63,7 @@
   }
   .hero-section {
     width: 90%;
-    background-image: url("../images/hero.jpg");
+    background-image: url("./images/hero.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@
   .left {
     width: 50%;
     height: 100%;
-    background-image: url("images/content.jpg");
+    background-image: url("./images/content.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
